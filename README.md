@@ -1,4 +1,4 @@
-### Olá! Sou o Pedro Rambaldi! Um estudante de análise e desenvolvimento de sistemas 👋
+### Olá!👋 Sou o Pedro Rambaldi! Um estudante de análise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/pedrorambaldi">
