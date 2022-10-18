@@ -2,10 +2,10 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Rambaldi;I'm+22+years+old;I+from+Rio+de+Janeiro;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrorambaldi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Rambaldi github stats" />
-  
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorambaldi&layout=compact" />
+<div align = "center">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorambaldi&show_icons=true&theme=dark&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=pedrorambaldi&show_icons=true&show_icons=true&theme=dark&count_private=true" />
+</div>
 
   
   
